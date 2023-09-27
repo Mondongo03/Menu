@@ -34,7 +34,7 @@ public class drawer1Fragment extends Fragment {
      *
      * @param param1 Parameter 1.
      * @param param2 Parameter 2.
-     * @return A new instance of fragment drawer1Fragment.
+     * @return A new instance of fragment Drawer1Fragment.
      */
     // TODO: Rename and change types and number of parameters
     public static drawer1Fragment newInstance(String param1, String param2) {
